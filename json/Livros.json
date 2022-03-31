@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "2",
+        "nome": "Harry Potter and the Philosopher's Stone",
+        "autor": "J.K. Rowling",
+        "ano": 1997,
+        "preco": 45.5,
+        "lastModified": {
+            "$date": "2022-03-31T06:49:07.157Z"
+        }
+    },
+    {
+        "_id": "3",
+        "nome": "As cidades invis\u00edveis",
+        "autor": "Italo Calvino",
+        "ano": 1972,
+        "preco": 67.83
+    },
+    {
+        "_id": "1",
+        "nome": "Clean Code",
+        "autor": "Robert C. Martin",
+        "ano": 2008,
+        "preco": 31.0
+    }
+]
